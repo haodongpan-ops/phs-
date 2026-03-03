@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", "Noto Sans SC", ui-sans-serif, system-ui, sans-serif;
+}
+
+body {
+    background-color: #f8fafc; /* slate-50 */
+    color: #1e293b; /* slate-800 */
+}
+
+.hero-gradient {
+    background: radial-gradient(circle at 50% 0%, rgba(29, 78, 216, 0.05), transparent 40%);
+}

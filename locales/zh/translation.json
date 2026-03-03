@@ -1,0 +1,97 @@
+{
+  "header": {
+    "home": "首页",
+    "solutions": "解决方案",
+    "technology": "核心技术",
+    "about": "关于我们",
+    "contact": "联系我们"
+  },
+  "footer": {
+    "slogan": "极致微视 · 智能洞见",
+    "links": "快速链接",
+    "contact": "保持联系",
+    "email": "邮箱:",
+    "inquiry": "我们将在一个工作日内回复您的垂询。",
+    "copyright": "&copy; {{year}} 谱华森公司 保留所有权利。"
+  },
+  "hero": {
+    "title": "极致微视 · <1>智能洞见</1>",
+    "subtitle": "以顶级成像质量为基石，由人工智能技术所驱动，为全球各行各业深度赋能。",
+    "cta_solutions": "探索解决方案",
+    "cta_tech": "了解核心技术"
+  },
+  "advantages": {
+    "title": "我们的竞争优势",
+    "subtitle": "我们不仅是产品供应商，更是您在创新之路上的合作伙伴。",
+    "synergy_title": "软硬一体的协同优势",
+    "synergy_desc": "完美结合自主研发的顶级微观成像硬件与前沿AI分析软件，提供无缝集成的端到端解决方案。",
+    "platform_title": "灵活通用的平台能力",
+    "platform_desc": "我们的核心技术平台具备高度适应性，能够打破行业壁垒，为多个垂直领域提供创新的应用。",
+    "roots_title": "深厚的学术渊源",
+    "roots_desc": "技术源于上海交通大学，我们的团队拥有坚实的科研基础以及丰富的专利与创新组合。"
+  },
+  "products": {
+    "title": "我们的产品组合",
+    "subtitle": "每一款产品都继承了PowerAcuity追求卓越的承诺，在其特定应用中展现出超凡的性能。",
+    "expansion_prefix": "潜在扩展领域：",
+    "prokaryo": {
+      "name": "PowerAcuity ProKaryo",
+      "application": "人类遗传学（染色体/骨髓分析）",
+      "expansion": "动植物遗传学、临床前研究"
+    },
+    "pathview": {
+      "name": "PowerAcuity PathView",
+      "application": "数字病理学（临床与科研）",
+      "expansion": "兽医病理学、材料科学成像、药物研发"
+    },
+    "metalux": {
+      "name": "PowerAcuity MetaLux",
+      "application": "工业表面检测（钢铁、半导体）",
+      "expansion": "高精密材料分析、消费电子质检"
+    },
+    "vetscan": {
+      "name": "PowerAcuity VetScan",
+      "application": "宠物医疗诊断",
+      "expansion": "畜牧业科研、动物园医学"
+    },
+    "agrisight": {
+      "name": "PowerAcuity AgriSight",
+      "application": "农业分析（粮食孢子/种子检测）",
+      "expansion": "食品加工质控、其他农业颗粒物分析"
+    },
+    "ecosight": {
+      "name": "PowerAcuity EcoSight",
+      "application": "环境监测（浮游生物/颗粒物）",
+      "expansion": "水产养殖监控、微塑料检测"
+    }
+  },
+  "smartFinder": {
+    "title": "AI智能方案查找器",
+    "subtitle": "描述您面临的挑战，我们的人工智能将为您推荐最佳的PowerAcuity解决方案。",
+    "placeholder": "例如：“分析钢铁表面的缺陷”",
+    "button": "寻找方案",
+    "analyzing": "分析中...",
+    "error_empty": "请输入您的需求。",
+    "ai_recommends": "我们的AI推荐：",
+    "error_api": "分析您的请求时发生错误: {{message}}"
+  },
+  "technology": {
+    "title": "核心技术",
+    "subtitle": "我们的优势在于将顶尖的成像技术与先进的人工智能无缝融合。",
+    "heading": "成像 + AI",
+    "p1": "我们构建了一个统一的平台，将我们专有的顶级成像硬件与强大、前瞻的AI分析软件相结合。这种集成为我们的客户提供了无与伦比的端到端解决方案。",
+    "p2": "从捕捉最精细的微观细节到提供深刻、可行的洞见，PowerAcuity代表了智能视觉技术的顶峰，推动各行业的发现与效率提升。"
+  },
+  "about": {
+    "title": "关于谱华森",
+    "p1": "我们的品牌名称 <1>PowerAcuity (谱华森)</1> 体现了我们的核心理念。“Power (力量)” 代表我们对强大性能和效率的承诺，而 “Acuity (锐度)” 则反映了定义我们技术的敏锐视觉与思维。",
+    "p2": "我们的技术根植于著名的<1>上海交通大学</1>，建立在卓越的学术基石和对创新的不懈追求之上。",
+    "p3": "我们的使命是为全球工业生态系统提供深刻的分析洞见，利用我们团队的世界级智慧，今天就解决未来的挑战。",
+    "caption": "技术源于上海交通大学"
+  },
+  "contact": {
+    "title": "联系我们",
+    "subtitle": "我们期待与您交流，探讨如何利用PowerAcuity的技术解决您面临的挑战。请联系我们，获取定制化解决方案。",
+    "cta": "发送邮件"
+  }
+}
